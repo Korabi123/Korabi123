@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Working On Front End Development<br>👯 My Website: https://korab-portfolio.epizy.com/?i=1<br>🌱 I’m Currently Learning Svelte And ReactJS Development<br>
+🔭 I’m Currently Working On Front End Development<br>👯 My Website: https://korab-portfolio.epizy.com/?i=1 *Note that some of these stats like the clients in the site are not real, they're only used for design purposes only!<br>🌱 I’m Currently Learning Svelte And ReactJS Development<br>
 
 
 # 💻 Tech Stack:
