@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Working On Front End Development<br>👯 My Website: https://korab-portfolio.epizy.com/?i=1 *Note that some of these stats like the clients in the site are not real, they're only used for design purposes only!<br>🌱 I’m Currently Learning TailwindCSS And ReactJS Development
+🔭 I’m Currently Working On Front End Development<br>👯 My Website: https://korabimeri-portfolio.vercel.app *Note that some of the components may not work in browsers like brave browser because of compatibility issues!<br>🌱 I’m Currently Learning TailwindCSS And ReactJS Development
 
 
 # 💻 Tech Stack:
