@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Working On Front End Development<br>👯 My Website: https://korabimeri-portfolio.vercel.app *Note that some of the components may not work in browsers like brave browser because of compatibility issues!<br>🌱 I’m Currently Learning TailwindCSS And ReactJS Development
+🔭 I’m Currently Working On Full-Stack Projects<br>👯 My Website: https://korabimeri-portfolio.vercel.app *Note that some of the components may not work in browsers like brave browser because of compatibility issues!<br>🌱 I’m Currently Learning Full-Stack NextJS Development
 
 
 # 💻 Tech Stack:
