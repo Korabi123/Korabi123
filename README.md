@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Working On Full-Stack Projects<br>👯 My Website: https://korabimeri-portfolio.vercel.app<br>🌱 I’m Currently Learning Web Scraping & Bypassing Server Security With Reverse Proxies
+🔭 I’m Currently Working On Full-Stack Projects<br>🌱 I’m Currently Learning Web Scraping & Bypassing Server Security With Reverse Proxies
 
 
 ## 🌐 Socials:
